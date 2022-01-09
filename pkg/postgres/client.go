@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 	"errors"
-	"github.com/lffranca/queryngo/pkg/util"
+	"github.com/lffranca/bahamut/pkg/util"
 	"github.com/lib/pq"
 	"log"
 )
